@@ -10,7 +10,7 @@ You can download the `employee_salaries_dashboard.pbix` file and view it using P
 
 `all_queries.sql` file contains the SQL statements that can query the dataset for data analysis.
 
-`electric_vehicle_dashboard.pbix` file stores the visualizations built using Power BI.
+`employee_salaries_dashboard.pbix` file stores the visualizations built using Power BI.
 
 ### Questions Answered
 
