@@ -1,6 +1,6 @@
-A repository for data analysis of [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data).
+A repository for data analysis of [Employee Salaries - 2023](https://catalog.data.gov/dataset/employee-salaries-2023).
 
-You can view the dashboard through the Power BI Service [here](https://app.powerbi.com/groups/me/reports/81c30448-737c-4960-b3ee-fbd022ee18df/b4101e3eca09526e34d6?experience=power-bi).<br>Alternatively, download the `electric_vehicle_dashboard.pbix` file and view using Power BI Desktop application.
+You can download the `employee_salaries_dashboard.pbix` file and view it using Power BI Desktop application.
 
 ### File Information
 
