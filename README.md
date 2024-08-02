@@ -22,3 +22,13 @@ Below are the questions that were answered by analyzing the dataset:
 5. Is there a correlation between years of service (determined by longevity pay) and base salary?
 
 Please note that the SQL statements given in `all_queries.sql` were not actually needed since Power BI could be used to extract the relevant information.
+
+Given below are charts taken from the Power BI report:
+
+![page1](https://github.com/user-attachments/assets/7b74a489-86c9-441f-b460-c6182fb9429a)
+
+![page2](https://github.com/user-attachments/assets/f4f9bf90-16af-4ad6-8998-5ea120d6f350)
+
+![page3](https://github.com/user-attachments/assets/19b75086-48b2-43f0-873c-bef7afd23c55)
+
+![page4](https://github.com/user-attachments/assets/a68c7dd7-8417-452b-9a62-99775e8d4d6b)
